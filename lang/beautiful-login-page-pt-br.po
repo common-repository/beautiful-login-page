@@ -1,0 +1,129 @@
+# Translation of Plugins - Beautiful Login Page - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Beautiful Login Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Beautiful Login Page - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://interactivemonkey.com.br"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Interactive MOnkey"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Turn on your login page. Leave it with a more modern face using the Beautiful Login Page. Simple and easy to use."
+msgstr ""
+
+#: beautiful-login-page.php:635
+msgid "Contribute and continue this project."
+msgstr ""
+
+#: beautiful-login-page.php:614 beautiful-login-page.php:620
+#: beautiful-login-page.php:626
+msgid "Position Theme elements."
+msgstr ""
+
+#: beautiful-login-page.php:608
+msgid "Delete data to uninstal."
+msgstr ""
+
+#: beautiful-login-page.php:606
+msgid "Hide Menu"
+msgstr ""
+
+#: beautiful-login-page.php:605
+msgid "Plugin Configure"
+msgstr ""
+
+#: beautiful-login-page.php:580
+msgid "To Add more then one Image press CTRL."
+msgstr ""
+
+#: beautiful-login-page.php:579
+msgid "Slideshow Images"
+msgstr ""
+
+#: beautiful-login-page.php:571
+msgid "Select your Background image."
+msgstr ""
+
+#: beautiful-login-page.php:564
+msgid "Background Image"
+msgstr ""
+
+#: beautiful-login-page.php:556
+msgid "Select your Central image."
+msgstr ""
+
+#: beautiful-login-page.php:549
+msgid "Central Image"
+msgstr ""
+
+#: beautiful-login-page.php:539
+msgid "Send image with 256px x 100px proporcion."
+msgstr ""
+
+#: beautiful-login-page.php:532
+msgid "Header Image Login"
+msgstr ""
+
+#: beautiful-login-page.php:523
+msgid "Text color"
+msgstr ""
+
+#: beautiful-login-page.php:514
+msgid "Background color"
+msgstr ""
+
+#: beautiful-login-page.php:505
+msgid "Login Description"
+msgstr ""
+
+#: beautiful-login-page.php:497
+msgid "Login Title"
+msgstr ""
+
+#: beautiful-login-page.php:476
+msgid "Font Style"
+msgstr ""
+
+#: beautiful-login-page.php:468
+msgid "Theme 3 - Slideshow"
+msgstr ""
+
+#: beautiful-login-page.php:467
+msgid "Theme 2 - Background image"
+msgstr ""
+
+#: beautiful-login-page.php:466
+msgid "Theme 1 - Background solid color and Logo in center"
+msgstr ""
+
+#: beautiful-login-page.php:327
+msgid "Preview Login Page"
+msgstr ""
+
+#: beautiful-login-page.php:327
+msgid "Login Configure"
+msgstr ""
+
+#: beautiful-login-page.php:206
+msgid "Awasome Plugin!!!"
+msgstr ""
+
+#. #-#-#-#-#  beautiful-login-page-code.pot (Beautiful Login Page 3.0.0) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: beautiful-login-page.php:202 beautiful-login-page.php:292
+#: beautiful-login-page.php:302
+msgid "Beautiful Login Page"
+msgstr ""

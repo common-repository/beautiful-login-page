@@ -1,0 +1,131 @@
+.left-div{ 
+  position:relative;
+  float:left;
+  width:50%;
+  overflow:hidden;
+}
+.left-div > h1,
+.left-div > h3{
+  position:relative;
+  margin:0 auto;
+  text-align:center;
+  line-height:30px;
+}
+.left-div > #img_div_login > img{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  max-width:75%; 
+  margin-top:6%; 
+}
+
+.right-div{
+  position:relative;
+  float:right;
+  width:50%;
+}
+.right-div > h1{
+
+}
+.login form{
+  width:50%;
+  margin:0 auto;
+}
+.login #nav,
+.login #backtoblog{
+  text-align:center;
+  font-weight:bold;
+  margin-top:15px;
+}
+.left-div > .div-tema-2 > h1{
+    margin-top:50%;
+  }       
+  .carousel{     
+    position:relative;    
+  }
+  .carousel .prev,
+  .carousel .next{
+    position:absolute;
+    top:50%;
+    width:30px;
+    height:30px;
+    border-radius:100px;
+    margin-top:-25px;
+    z-index:9999;
+    background:rgba(0,0,0,0.06);
+    color:#ffffff;    
+    font-size:20px !important;
+    cursor:pointer;
+    text-shadow:1px 1px 1px rgba(0,0,0,0.6);
+    text-align:center;    
+  }
+  .carousel .prev:hover,
+  .carousel .next:hover{
+    background:rgba(0,0,0,0.4);
+  }
+  .carousel .prev{
+    left:15px;
+    padding:8px 2px 0 2px;
+  }
+  .carousel .next{
+    right:15px;
+    padding:8px 1px 0 3px;
+  }
+  .carousel ul li{
+    width:100%;
+    background-repeat:no-repeat !important;
+    background-size:cover !important;
+    background-position:center center;
+  }
+  .carousel ul li h1{
+    margin-top:48%;
+    margin-bottom:20px;   
+    font-size:30px;
+    line-height:30px; 
+  }
+  .carousel ul li h3{    
+    font-size:17px;
+    line-height:20px;
+  }
+  .carousel ul li h1,
+  .carousel ul li h3{
+    text-align:center;   
+    text-shadow:1px 1px 1px rgba(0,0,0,0.5);
+    padding-left:45px;
+    padding-right:45px;   
+  }
+ 
+  .login form{
+      box-shadow: 0 2px 8px rgba(0,0,0,.13);
+  }
+  .login label {
+   color: #111111 !important;  
+   width:100%;     
+  }
+  .message,
+  .login #login_error{
+    width:75%;
+    margin:0 auto 20px auto !important;    
+  }
+  .dashicons,
+  .login .button.wp-hide-pw .dashicons{
+    height:32px !important;
+  }
+  .login .button.wp-hide-pw .dashicons{
+    top:-2px !important;
+  }
+  .login .button.wp-hide-pw{
+    padding:0px !important;
+  }
+  @media (max-width: 750px){
+     #login-left{
+      display:none;
+     }
+     .right-div{
+      float:left;
+      width:100%
+     }
+     .login form{
+      width:80%;
+     }     
+  }
